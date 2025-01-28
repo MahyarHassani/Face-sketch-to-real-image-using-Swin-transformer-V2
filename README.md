@@ -54,6 +54,11 @@ The leveraged imaages for test are avalible at: https://drive.google.com/file/d/
 ```
 jupyter notebook image2sketch.ipynb
 ```
+If you're using modal.com, remember that you have to create a volume before the training.
+Run this code on CMD:
+```
+modal volumecreate checkpoints
+```
 2. Training the Model
 ```
 modal run train.py # or ( modal run train.py::train_model )

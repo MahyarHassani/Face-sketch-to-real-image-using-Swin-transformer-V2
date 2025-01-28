@@ -103,7 +103,7 @@ Contributions are welcome! Please open an issue first to discuss proposed change
 
 -----------------------------------------------------------------------------------------------------------------------------------
 ## License
-Distributed under the MIT License.
+Distributed under the Apache License 2.0.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 Note: This project is currently in active development and should be considered experimental. The maintainers welcome collaborations and resource contributions to continue improving the model.

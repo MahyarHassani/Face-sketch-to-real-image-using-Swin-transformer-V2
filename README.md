@@ -116,7 +116,11 @@ Note: This project is currently in active development and should be considered e
 -----------------------------------------------------------------------------------------------------------------------------------
 ## Refrences 
 [1] Wang, N., Tao, D., Gao, X., Li, X., & Li, J. (2013). Transductive face sketch-photo synthesis. IEEE transactions on neural networks and learning systems, 24(9), 1364-1376.
+
 [2] Klare, B., Li, Z., & Jain, A. K. (2010). Matching forensic sketches to mug shot photos. IEEE transactions on pattern analysis and machine intelligence, 33(3), 639-646.
+
 [3] Bhandare, M. S., & Vibhute, A. S. (2022, December). Face Sketch to Image Generation and Verification Using Adversarial and Discrimination Network. In Techno-Societal 2016, International Conference on Advanced Technologies for Societal Applications (pp. 901-909). Cham: Springer International Publishing.
+
 [4] Liu, Z., Hu, H., Lin, Y., Yao, Z., Xie, Z., Wei, Y., Ning, J., Cao, Y., Zhang, Z., Dong, L., Wei, F., & Guo, B. (2022). Swin Transformer V2: Scaling Up Capacity and Resolution. In International Conference on Computer Vision and Pattern Recognition (CVPR).
+
 [5] Liu, Z., Luo, P., Wang, X., & Tang, X. (2015, December). Deep learning face attributes in the wild. In Proceedings of the International Conference on Computer Vision (ICCV).

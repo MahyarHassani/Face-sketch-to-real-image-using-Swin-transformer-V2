@@ -1,13 +1,5 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f68756767696e67666163652f64617461736574732e7376673f636f6c6f723d626c7565](https://github.com/user-attachments/assets/eb6df7c3-efa0-45d8-bff3-d365d43167bc)# Sketch-to-Image Translation with Swin Transformer
-
-
-
-
-![Uploading 68747470733a2f2f696d672e736869656c64732e69<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="20" role="img" aria-label="license: Apache-2.0"><title>license: Apache-2.0</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="120" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="47" height="20" fill="#555"/><rect x="47" width="73" height="20" fill="#007ec6"/><rect width="120" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="245" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">license</text><text x="245" y="140" transform="scale(.1)" fill="#fff" textLength="370">license</text><text aria-hidden="true" x="825" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="630">Apache-2.0</text><text x="825" y="140" transform="scale(.1)" fill="#fff" textLength="630">Apache-2.0</text></g></svg>6f2f6769746875622f6c6963656e73652f68756767696e67666163652f64617461736574732e7376673f636f6c6f723d626c7565.svg…]()
-
-
-
-
+# Sketch-to-Image Translation with Swin Transformer
+![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f68756767696e67666163652f64617461736574732e7376673f636f6c6f723d626c7565](https://github.com/user-attachments/assets/1d2009fd-f6b2-4076-8611-0a5fb184e1b8)
 
 A deep learning model that transforms sketch drawings to photorealistic images employing a SwinV2 encoder and a self-developed CNN decoder. However, the model needs more training and some improvement, I decide to share here to seek some valuable advice and enhancement on this idea. The project further entails test tools for the model as well as converting real images to sketches.
 

@@ -87,6 +87,7 @@ Sample results:
 - Suboptimal metrics due to limited training (25 epochs completed).
 - Model tends to produce blurry outputs.
 - High FID score indicates significant room for improvement.
+
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Future Work
 - Complete full training cycle (100+ epochs).
@@ -95,14 +96,18 @@ Sample results:
 - Implement GAN-based adversarial loss.
 - Try progressive growing of resolution.
 - Optimize for lower VRAM consumption.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 ## Contributing
 Contributions are welcome! Please open an issue first to discuss proposed changes.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 ## License
 Distributed under the MIT License.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 Note: This project is currently in active development and should be considered experimental. The maintainers welcome collaborations and resource contributions to continue improving the model.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 ## Refrences 
 [1] Wang, N., Tao, D., Gao, X., Li, X., & Li, J. (2013). Transductive face sketch-photo synthesis. IEEE transactions on neural networks and learning systems, 24(9), 1364-1376.

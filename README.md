@@ -36,7 +36,7 @@ This project aims to bridge the gap in face sketch to real image by presenting a
 ```
 # Clone repository
 git clone https://github.com/MahyarHassani/Face-sketch-to-real-image-using-Swin-transformer-V2.git
-cd sketch-to-real
+cd Face-sketch-to-real-image-using-Swin-transformer-V2
 
 # Install dependencies
 pip install -r requirements.txt

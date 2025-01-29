@@ -48,7 +48,7 @@ pip install lpips
 ## Usage
 I used CelebA dataset which is avalaible at: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html and then generated sketches from real images.
 The leveraged dataset is avalaible at: https://drive.google.com/file/d/1vrNfm7xdGi5IXp3ss--aGYS7tXoTWmHs/view?usp=drive_link
-The leveraged imaages for test are avalible at: https://drive.google.com/file/d/1URzlsAlOj92T9gIjr3ASIDmnry7pG6WV/view?usp=sharing
+The leveraged images for test are avalible at: https://drive.google.com/file/d/1URzlsAlOj92T9gIjr3ASIDmnry7pG6WV/view?usp=sharing
 
 1. Generate sketches from real images
 ```

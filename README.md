@@ -77,8 +77,8 @@ Due to the low resources, I could not continue the trainig process and the resul
 
 Current Metrics (after partial training):
 ```
-SSIM (Structural Similarity): 0.4490
-FID (Fréchet Inception Distance): 201.2582
+FID Score: 115.1996
+Average SSIM: 0.7982 ± 0.0442
 ```
 
 Sample results:

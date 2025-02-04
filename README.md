@@ -82,7 +82,7 @@ Average SSIM: 0.7982 ± 0.0442
 ```
 
 Sample results:
-![figure](https://github.com/user-attachments/assets/66e2f9f8-f0c5-416f-85f2-358ca0d6ea01)
+![Results drawio](https://github.com/user-attachments/assets/4a9b6d28-5624-4fa0-8498-b7120e0cf370)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------

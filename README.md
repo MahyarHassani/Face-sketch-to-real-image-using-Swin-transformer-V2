@@ -97,7 +97,6 @@ Sample results:
 ## Future Work
 - Complete full training cycle (100+ epochs).
 - Experiment with different decoder architectures.
-- Add attention mechanisms in the decoder.
 - Implement GAN-based adversarial loss.
 - Try progressive growing of resolution.
 - Optimize for lower VRAM consumption.

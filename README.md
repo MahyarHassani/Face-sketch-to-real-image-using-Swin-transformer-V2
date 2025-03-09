@@ -1,10 +1,9 @@
 # Sketch-to-Image Translation with Swin Transformer
-![architecture drawio](https://github.com/user-attachments/assets/81df449c-6bad-4860-b90d-8e85f21f2d1c)
-
 
 A deep learning model that transforms sketch drawings to photorealistic images employing a SwinV2 encoder and a self-developed CNN decoder. However, the model needs more training and some improvement, I decide to share here to seek some valuable advice and enhancement on this idea. The project further entails test tools for the model as well as converting real images to sketches.
 
-![figure1](https://github.com/user-attachments/assets/1cd48002-6757-4d88-80d0-93c0ab9d087b)
+![architecture drawio](https://github.com/user-attachments/assets/51cd258d-046b-484c-855d-d6b609617c9e)
+
 
 ## Table of Contents
 - Introduction
